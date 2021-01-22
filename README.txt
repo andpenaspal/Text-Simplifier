@@ -20,18 +20,6 @@ REQUIREMENTS
 JAVA JRE 8 (or superior)
 --------------------------------------------------------------
 
-INSTALATION
---------------------------------------------------------------
-This program does not need instalation.
-To run de program:
- * IDE:
-  - Follow the steps to import the project (varies depending
-    on the IDE).
- * Command Prompt (CMD):
-  - Go to the folder where you've saved the program.
-  - Go to the folder "Bin".
-  - Enter: "java ie.gmit.dip.Runner".
---------------------------------------------------------------
 
 USAGE
 --------------------------------------------------------------
