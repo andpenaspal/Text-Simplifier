@@ -1,8 +1,8 @@
 # TEXT SIMPLIFIER
 
-### Author: Andres Penas Palmeiro
-### Final Project for the Module "Advanced Object Oriented Programming" of the H.Dip in Computer Science in Software Development - GMIT
-### Version: 1.0 (Jan 2020)
+##### Author: Andres Penas Palmeiro
+##### Final Project for the Module "Advanced Object Oriented Programming" of the H.Dip in Computer Science in Software Development - GMIT
+##### Version: 1.0 (Jan 2020)
 
 ## Summary
 This application simplifies text using a source containing a list of Common Words and another source containing a Thesaurus of synonyms of these words. The text passed is processed and converted into a simpler version of itself, coloring in red the changed words.
