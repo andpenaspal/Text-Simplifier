@@ -45,5 +45,8 @@ The current version doesn't support simplification from files.
 ## About the Text Simplifier
 The simplification process swaps complex words contained in the Thesaurus with its synonyms from the simpler Common Words. Swapped words are marked in red.
 
+## License
+MIT License. See "LICENSE" for further information.
+
 ## Contact Information
 G00376379@gmit.ie
